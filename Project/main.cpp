@@ -32,6 +32,7 @@ BOOL CMainWindow::OnEraseBkgnd(CDC* pDC) {
 	return TRUE;
 }
 
+
 CMyApp myApp;
 
 BOOL CMyApp::InitInstance()
